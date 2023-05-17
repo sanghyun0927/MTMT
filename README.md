@@ -22,8 +22,8 @@ at [Google Drive](https://drive.google.com/file/d/1BK4x9IUNQKBaP7ye5S2-e9_zEN7Fb
 You can download the trained model which is reported in our paper at [BaiduNetdisk](https://pan.baidu.com/s/1yjnsjE7mDPnEaHxdtNFhhQ)(password: h52i) or [Google Drive](https://drive.google.com/file/d/1s-4BSmz9j8u2_WoUnzNYL0QjRYFEeEkU/view?usp=share_link).
 
 ## Requirement
-* Python 3.6
-* PyTorch 1.3.1(After 0.4.0 would be ok)
+* Python 3.8
+* PyTorch 1.12.1
 * torchvision
 * numpy
 * tqdm
